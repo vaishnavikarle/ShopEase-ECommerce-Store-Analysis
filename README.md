@@ -1,14 +1,16 @@
 # ShopEase-ECommerce-Store-Analysis
-This project aims to analyze sales, customer behavior and product performance for ShopEase E-Commerce store using SQL and Power BI. The analysis identifies key patterns, highlights high and low-performing areas and provides actionable insights to improve overall business performance.
+This project focuses on analyzing sales performance, customer behavior, and product trends for the ShopEase E-Commerce Store using SQL and Power BI.
+The goal is to uncover meaningful insights, identify high- and low-performing areas, and provide data-driven recommendations to improve overall business efficiency and customer satisfaction.
 
-Tools & Technologies
--- SQL: for data extraction and data validation
--- Power BI: for dashboards and visualization 
--- Power Query: for metrics
+🛠️ Tools & Technologies
 
-Key Insights
--- Identified monthly and seasonal trends.
--- Analyzed customer demographics and payment preferences.
--- Identified most and worst selling products.
--- Evaluated delivery performance and suggested improvements.
+SQL (MySQL): Data extraction, cleaning, validation, and analysis
+Power BI: Interactive dashboards, KPIs, and visual storytelling
+Power Query: Data transformation and metric creation
 
+🔍 Key Insights
+
+Identified monthly and seasonal sales trends, highlighting peak and low-performance periods.
+Analyzed customer demographics, login behavior, and payment preferences to understand buying patterns.
+Determined best-selling and least-selling products, helping optimize inventory and marketing focus.
+Evaluated delivery performance, detected delay patterns, and suggested operational improvements.
